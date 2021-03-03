@@ -1,6 +1,6 @@
 # optLab
 
-my optimization work in university. The functions are nonsmooth and the tasks were:
+my optimization work in university. The function and the tasks were:
 find f(x) -> min
 
 f(x1, x2) = sqrt(2*x1^2 + x2^2 + 1) + exp(x1^2 + 2x2^2) -x1 -x2
